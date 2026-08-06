@@ -11,15 +11,9 @@
 - 可用源码：4.0.3 及之后的版本（即仓库中目前可见的版本）
 
 ## 使用/安装（通用建议）
-具体安装步骤取决于该仓库发布的具体资产（模组、资源包或完整版本）：
-1. 先备份你的 Minecraft 存档与重要配置。
-2. 在仓库 Releases 页面或下载 ZIP 中获取对应版本的文件。
-3. 根据文件类型将其放到对应目录：
-   - 资源包（Resource Pack）：放入 Minecraft 的 `resourcepacks` 目录；
-   - 模组（Mod / jar）：放入 Minecraft 的 `mods` 目录（确保与所使用的 Forge/Fabric 版本兼容）；
-   - 版本文件或自定义客户端：请遵循仓库内的具体说明。
-4. 启动 Minecraft 并在正确的配置下加载对应的资源/模组。
-如果仓库中提供了更详细的安装说明，请优先参考仓库内的文档。
+具体安装步骤取决于该仓库发布的具体资产:
+1. 在仓库 Releases 页面或下载 apk 中获取对应版本的文件。
+2. 安装
 
 ## 贡献
 欢迎对本项目做出贡献，建议流程：
@@ -50,16 +44,9 @@ The goal of this repository is to provide a localized Minecraft experience for C
 - Available sources: 4.0.3 and later (present in this repository)
 
 ## Usage / Installation (general guidance)
-Exact installation steps depend on what assets are provided in this repository (mod, resource pack, or customized client):
-1. Back up your Minecraft worlds and important configuration first.
-2. Download the appropriate release assets or ZIP from the repository’s Releases page.
-3. Place files according to their type:
-   - Resource packs: put in Minecraft's `resourcepacks` folder;
-   - Mods (jar files): put in the `mods` folder (ensure compatibility with your Forge/Fabric version);
-   - Custom version or client files: follow the repository’s specific instructions.
-4. Start Minecraft and load the assets under the correct profile/configuration.
-If the repository contains more detailed installation instructions, follow those.
-
+Exact installation steps depend on what assets are provided in this repository:
+1. Download the appropriate release assets or apk from the repository’s Releases page.
+2. Install
 ## Contributing
 Contributions are welcome. Suggested workflow:
 1. Fork the repository and create a branch (e.g., `feature/your-change`).
